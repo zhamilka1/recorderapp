@@ -40,52 +40,5 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCLgag86GdHLmdVJ3KM-RQEHaUkI9Snl9s',
-    appId: '1:179586566918:web:ab4a28bda1538754b5ec87',
-    messagingSenderId: '179586566918',
-    projectId: 'audiomind-cd589',
-    authDomain: 'audiomind-cd589.firebaseapp.com',
-    storageBucket: 'audiomind-cd589.appspot.com',
-  );
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBf3dZGT5u-Od9W0DEwOzwWIbIh3QpZlUM',
-    appId: '1:179586566918:android:6a5c613dd28bdfcdb5ec87',
-    messagingSenderId: '179586566918',
-    projectId: 'audiomind-cd589',
-    storageBucket: 'audiomind-cd589.appspot.com',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDqgf2emcXFzfbwbWnaA56ligYaB8vZodc',
-    appId: '1:179586566918:ios:0390a7dd43f8b4d6b5ec87',
-    messagingSenderId: '179586566918',
-    projectId: 'audiomind-cd589',
-    storageBucket: 'audiomind-cd589.appspot.com',
-    androidClientId: '179586566918-o014eisun2g10vh6e538k7v5s1j6j9mc.apps.googleusercontent.com',
-    iosClientId: '179586566918-90u568hov0s96o10ml5e5nkkds464rpr.apps.googleusercontent.com',
-    iosBundleId: 'com.example.recorderapp',
-  );
-
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDqgf2emcXFzfbwbWnaA56ligYaB8vZodc',
-    appId: '1:179586566918:ios:0390a7dd43f8b4d6b5ec87',
-    messagingSenderId: '179586566918',
-    projectId: 'audiomind-cd589',
-    storageBucket: 'audiomind-cd589.appspot.com',
-    androidClientId: '179586566918-o014eisun2g10vh6e538k7v5s1j6j9mc.apps.googleusercontent.com',
-    iosClientId: '179586566918-90u568hov0s96o10ml5e5nkkds464rpr.apps.googleusercontent.com',
-    iosBundleId: 'com.example.recorderapp',
-  );
-
-  static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCLgag86GdHLmdVJ3KM-RQEHaUkI9Snl9s',
-    appId: '1:179586566918:web:c12c734b915c9e13b5ec87',
-    messagingSenderId: '179586566918',
-    projectId: 'audiomind-cd589',
-    authDomain: 'audiomind-cd589.firebaseapp.com',
-    storageBucket: 'audiomind-cd589.appspot.com',
-  );
 
 }
